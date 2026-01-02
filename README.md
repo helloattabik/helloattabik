@@ -3,3 +3,8 @@
 </h2>
 
 <p align="center">I'm Informatics Engineering Student in Nahdlatul Ulama Islamic University <a href="https://unisnu.ac.id/prodi/teknik-informatika">[ UNISNU Jepara ]</a></p>
+
+##Experience
+1. 2.5 years as a Network Operation Center (NOC) Engineer at PT DES Teknologi Informasi
+
+##Contact Me
