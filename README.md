@@ -1,18 +1,10 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains&size=36&pause=1000&color=ffffff&center=true&vCenter=true&width=1000&lines=Hello+everyone%2C+I'm+Tri+Misbachul+Attabik" />
-</h2>
-
-<p align="center">I'm Informatics Engineering Student in Nahdlatul Ulama Islamic University <a href="https://unisnu.ac.id/prodi/teknik-informatika">[ UNISNU Jepara ]</a></p>
-
-
-
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Tri+Misbachul+Attabik;Cloud+Infrastructure+%26+DevOps+Student" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Tri+Misbachul+Attabik;IT+Network+%26+Infrastructure;Informatics+Student+at+UNISNU+Jepara" />
 </h1>
 
 <p align="center">
-  <strong>Informatics Engineering Student at UNISNU Jepara</strong><br>
+  <strong>
+<p align="center">I'm Informatics Engineering Student in Nahdlatul Ulama Islamic University <a href="https://unisnu.ac.id/prodi/teknik-informatika">[ UNISNU Jepara ]</a></strong><br>
   <a href="mailto:attabik.1402@gmail.com">attabik.1402@gmail.com</a>
 </p>
 
