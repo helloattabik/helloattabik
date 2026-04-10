@@ -35,59 +35,17 @@
 
 ---
 
-## 🛠️ Technical Ecosystem
 
-### 🌐 Networking & Infrastructure
-![MikroTik](https://img.shields.io/badge/MikroTik-EE1F25?style=flat-square&logo=mikrotik&logoColor=white) 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) 
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-[cite_start]*Expertise in MikroTik, Cisco, Ruijie, and Fortinet environments[cite: 32].*
+### Technical Ecosystem
 
-### ♾️ DevOps & Automation
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
-![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-[cite_start]*Focused on Containerization, IaC concepts, and scripting with Python and Bash[cite: 34, 35, 36].*
-
-### 📊 Monitoring & Systems
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white) 
-![LibreNMS](https://img.shields.io/badge/LibreNMS-333333?style=flat-square&logo=librenms&logoColor=white)
-![Cacti](https://img.shields.io/badge/Cacti-61B454?style=flat-square&logo=cacti&logoColor=white)
-[cite_start]*Experienced with high-availability monitoring using LibreNMS, Zabbix, and Smokeping[cite: 33].*
-
----
-
-## 💼 Featured Experience
-**Technical Support & NOC Engineer | PT. DES Teknologi Informasi Semarang**
-[cite_start]*Feb 2023 – Jun 2025* [cite: 12, 15]
-
-* [cite_start]**Efficiency Growth**: Automated customer isolation processes via custom scripting, achieving an 80% reduction in processing time[cite: 13].
-* [cite_start]**Network Reliability**: Maintained **99.9% uptime** for a massive client base through proactive 24/7 monitoring[cite: 13].
-* [cite_start]**Incident Management**: Resolved complex network issues both remotely and on-site with high-quality technical documentation[cite: 14].
-
----
-
-## 🎓 Education & Certifications
-* [cite_start]**Bachelor of Informatics Engineering** - Universitas Islam Nahdlatul Ulama Jepara (GPA: 4.00)[cite: 7, 8, 10].
-* [cite_start]**MikroTik Certified Network Associate (MTCNA)**[cite: 30].
-* [cite_start]**Junior Network Administration (BNSP)**[cite: 31].
-
----
-
-## 🎨 Creative & Design Stack
-*Skillful in visual communication for technical documentation and branding:*
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-[cite_start]*[cite: 37]*
-
----
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Networking** | ![MikroTik](https://img.shields.io/badge/MikroTik-EE1F25?style=flat-square&logo=mikrotik&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white) |
+| **DevOps & Automation** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Monitoring** | ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white) ![LibreNMS](https://img.shields.io/badge/LibreNMS-333333?style=flat-square&logo=librenms&logoColor=white) ![Cacti](https://img.shields.io/badge/Cacti-61B454?style=flat-square&logo=cacti&logoColor=white) |
+| **Server & System** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) |
+| **Design & Media** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
 
 ### 📫 Let's Connect!
 * [cite_start]**LinkedIn**: [tri-misbachul-attabik](https://linkedin.com/in/tri-misbachul-attabik) [cite: 2]
