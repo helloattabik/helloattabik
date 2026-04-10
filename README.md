@@ -38,14 +38,74 @@
 
 ### Technical Ecosystem
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Networking** | ![MikroTik](https://img.shields.io/badge/MikroTik-EE1F25?style=flat-square&logo=mikrotik&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white) ![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white) ![UniFi](https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white) |
-| **DevOps & Automation** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
-| **Programming** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Monitoring** | ![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white) ![LibreNMS](https://img.shields.io/badge/LibreNMS-333333?style=flat-square&logo=librenms&logoColor=white) ![Cacti](https://img.shields.io/badge/Cacti-61B454?style=flat-square&logo=cacti&logoColor=white) |
-| **Server & System** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) |
-| **Design & Media** | ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
+Untuk membuat tabel di GitHub README.md terlihat memiliki lebar penuh (full-width), kita perlu beralih dari format tabel Markdown standar ke format HTML <table>. Tabel Markdown standar secara otomatis menyusut mengikuti panjang kontennya, sedangkan HTML memungkinkan kita untuk mengatur atribut width="100%".
+
+Berikut adalah kode yang telah dioptimasi untuk lebar penuh dengan ikon keahlian Anda:
+
+Markdown
+## 🛠️ Technical Ecosystem
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="200" align="left">Category</th>
+      <th align="left">Tools & Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>Networking</b> [cite: 24, 32]</td>
+      <td>
+        <img src="https://img.shields.io/badge/MikroTik-EE1F25?style=flat-square&logo=mikrotik&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" />
+        <img width="1000" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7">
+      </td>
+    </tr>
+    <tr>
+      <td><b>DevOps & Automation</b> [cite: 27, 35]</td>
+      <td>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Programming</b> [cite: 26, 34]</td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Monitoring</b> [cite: 25, 33]</td>
+      <td>
+        <img src="https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logo=zabbix&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/LibreNMS-333333?style=flat-square&logo=librenms&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Cacti-61B454?style=flat-square&logo=cacti&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Server & System</b> [cite: 28, 36]</td>
+      <td>
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> 
+        <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td><b>Design & Media</b> [cite: 29, 37]</td>
+      <td>
+        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white" /> 
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ### 📫 Let's Connect!
 * [cite_start]**LinkedIn**: [tri-misbachul-attabik](https://linkedin.com/in/tri-misbachul-attabik) [cite: 2]
