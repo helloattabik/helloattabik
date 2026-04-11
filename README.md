@@ -15,29 +15,7 @@
 
 ## <font color="#58a6ff">01.</font> Tentang Saya
 
-Saya adalah mahasiswa Teknik Informatika di **UNISNU Jepara** (GPA 4.00) dengan pengalaman 2,5 tahun sebagai **NOC Engineer**. Saya memiliki spesialisasi dalam menjaga stabilitas jaringan (**99.9% uptime**) dan kini sedang mendalami ekosistem **DevOps & System Administration**.
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <p align="left">
-        ✅ <code>Pernah menangani monitoring 1.000+ klien di lingkungan 24/7.</code>
-      </p>
-    </td>
-    <td width="50%">
-      <p align="left">
-        ✅ <code>Juara 1 LKS IT Network System Administration tingkat Kabupaten.</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <p align="left">
-        ✅ <code>Berfokus pada automasi menggunakan Bash & Python untuk efisiensi operasional.</code>
-      </p>
-    </td>
-  </tr>
-</table>
+Undergraduate Informatics Student at Universitas Islam Nahdlatul Ulama Jepara. Have 2.5 years of experience as a Network Engineer (NOC), with hands-on expertise in network monitoring, troubleshooting, and incident handling for 1,000+ clients in a 24/7 environment. Currently focused on developing skills in system administration and DevOps engineering.
 
 ---
 
