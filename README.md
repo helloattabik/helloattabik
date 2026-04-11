@@ -1,24 +1,19 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=C9D1D9&center=true&vCenter=true&width=960&lines=%24+whoami;Tri+Misbachul+Attabik;NOC+Engineer+%7C+DevOps+Enthusiast;Network+%26+Infrastructure+%7C+UNISNU+Jepara" alt="Typing SVG" />
 
-</div>
+# Tri Misbachul Attabik
+### <kbd><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=30&pause=1000&color=C9D1D9&center=true&vCenter=true&width=960&lines=%24+whoami;Tri+Misbachul+Attabik;NOC+Engineer+%7C+DevOps+Enthusiast;Network+%26+Infrastructure+%7C+UNISNU+Jepara" alt="Typing SVG" /></kbd>
 
-<br/>
+> "Informatics Student | Former NOC Engineer | DevOps & SysAdmin Enthusiast"
 
-```txt
-╔══════════════════════════════════════════════════════════════════════╗
-║                        SYSTEM PROFILE                               ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  user        : tri-misbachul-attabik                                ║
-║  role        : NOC Engineer → SysAdmin / DevOps                     ║
-║  university  : UNISNU Jepara — Informatics Engineering              ║
-║  experience  : 2.5+ years | 1000+ clients | 24/7 environment        ║
-║  focus       : Network Infra · System Admin · DevOps Engineering    ║
-║  status      : [ OPEN TO OPPORTUNITIES ]                            ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+---
 
+## 👤 Tentang Saya
+
+[cite_start]Saya adalah mahasiswa Teknik Informatika di **UNISNU Jepara** (GPA 4.00) dengan pengalaman 2,5 tahun sebagai **NOC Engineer**[cite: 4, 8, 10, 15]. [cite_start]Saya memiliki spesialisasi dalam menjaga stabilitas jaringan (99.9% uptime) dan kini sedang mendalami ekosistem DevOps & System Administration[cite: 5, 13].
+
+* [cite_start]🛠️ Pernah menangani monitoring 1.000+ klien di lingkungan 24/7[cite: 4, 13].
+* [cite_start]🏆 Juara 1 LKS IT Network System Administration tingkat Kabupaten[cite: 17, 18].
+* [cite_start]🤖 Berfokus pada automasi menggunakan Bash & Python[cite: 34].
 ---
 
 ## `$ cat skills.json`
