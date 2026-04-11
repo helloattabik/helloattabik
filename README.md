@@ -5,7 +5,7 @@
 <p align="center">
   <strong>
 <p align="center">I'm Informatics Engineering Student in Nahdlatul Ulama Islamic University <a href="https://unisnu.ac.id/prodi/teknik-informatika">[ UNISNU Jepara ]</a></strong><br>
-  <a href="mailto:attabik.1402@gmail.com">attabik.1402@gmail.com</a>
+  <a href="mailto:attabik.1402@gmail.com">Email Me</a> | <a href="https://www.linkedin.com/in/tri-misbachul-attabik/">Show LinkedIn</a>
 </p>
 
 ---
@@ -36,13 +36,6 @@
 ---
 
 
-### Technical Ecosystem
-
-Untuk membuat tabel di GitHub README.md terlihat memiliki lebar penuh (full-width), kita perlu beralih dari format tabel Markdown standar ke format HTML <table>. Tabel Markdown standar secara otomatis menyusut mengikuti panjang kontennya, sedangkan HTML memungkinkan kita untuk mengatur atribut width="100%".
-
-Berikut adalah kode yang telah dioptimasi untuk lebar penuh dengan ikon keahlian Anda:
-
-Markdown
 ## 🛠️ Technical Ecosystem
 
 <table width="100%">
