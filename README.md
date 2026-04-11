@@ -10,33 +10,9 @@
 
 ---
 
-# Hi there, I'm Tri Misbachul Attabik! 👋
-### Informatics Student | Experienced NOC Engineer | Aspiring DevOps & SysAdmin
-
-<p align="left">
-  <a href="https://linkedin.com/in/tri-misbachul-attabik">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:attabik.1402@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<p align=center>Undergraduate Informatics Student at Universitas Islam Nahdlatul Ulama Jepara. Have 2.5 years of experience as a Network Engineer (NOC), with hands-on expertise in network monitoring, troubleshooting, and incident handling for 1,000+ clients in a 24/7 environment. Currently focused on developing skills in system administration and DevOps engineering</p>
 
 ---
-
-## 🚀 Professional Profile
-[cite_start]I am a results-driven Informatics student at **Universitas Islam Nahdlatul Ulama Jepara**[cite: 4, 8]. [cite_start]With **2.5 years of professional experience** as a Network Engineer (NOC), I have a proven track record in managing large-scale network infrastructures for **1,000+ clients** in a high-pressure 24/7 environment[cite: 4].
-
-**Why work with me?**
-* [cite_start]⚡ **Automation Specialist**: I reduced manual processing time by **80%** by developing custom automation scripts[cite: 13].
-* [cite_start]🏆 **Award Winner**: 1st Place Winner in **IT Network System Administration** (LKS 30 Kabupaten Jepara)[cite: 17, 18].
-* [cite_start]📈 **High Achiever**: Currently maintaining a **GPA of 4.00/4.00**[cite: 10].
-* [cite_start]🛠️ **Infrastructure Focused**: Transitioning my core networking skills into the **DevOps and System Administration** landscape.
-
----
-
-
-## 🛠️ Technical Ecosystem
 
 <table width="100%">
   <thead>
